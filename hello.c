@@ -3,5 +3,6 @@
 void main()
 {
 print("hello world")
+  print("c programming")
 getch()
 }
